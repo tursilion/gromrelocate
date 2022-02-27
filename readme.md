@@ -40,6 +40,8 @@ settings are hard coded as noted above.)
 
 gromrelocate inputG.bin outputG.bin
 
+Windows project and EXE included, but it should port with minimal effort.
+
 I don't intend to give a lot of support to this program, it's a hacky little
 tool. But it may be useful to others! So it's released. Enjoy!
 
