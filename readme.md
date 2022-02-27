@@ -10,9 +10,11 @@ target program - it will make life easier.
 
 The main things you need to change:
 
- // there are some hard-coded assumptions about this relocation range!
- int nSrc = 0x6000;         // source offset
- int nDest = 0x2000;        // dest offset
+```
+// there are some hard-coded assumptions about this relocation range!
+int nSrc = 0x6000;         // source offset
+int nDest = 0x2000;        // dest offset
+```
 
 This may need changing for whatever your needs are.
 
